@@ -72,4 +72,34 @@ img {
   clear: both;
 }
 
+.positioning{
+  margin-bottom: 30px;
+}
+
+  
+ 
+@media screen and (min-width:768px) and (max-width:991px){
+
+    .responsible{ 
+      background-color: #f2f2cd;
+  
+    }
+
+    .middle{
+      background-color: white;
+    }
+}
+
+
+@media screen and (max-width:767px){
+
+  .responsible{
+    background-color: #f2f2cd;
+  }
+
+  .middle{
+    background-color: white;
+  }
+}
+ 
 
